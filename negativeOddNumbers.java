@@ -6,6 +6,7 @@ class negativeOddNumbers{
       data[count] = i;
       count=count+1;
     }
+    //
     for (int i=0;i<=49;i++){
     System.out.println(data[i]); 
     }
